@@ -1,0 +1,7 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "65a67562181eadf109a44c80686fd848"
+inputs: 
+- "/Users/bobobaby007/Documents/work/2015/swift_test/swift_test/swift_test/newObj.swift"
+- "/Users/bobobaby007/Documents/work/2015/swift_test/swift_test/swift_test/ViewController.swift"
+- "/Users/bobobaby007/Documents/work/2015/swift_test/swift_test/swift_test/AppDelegate.swift"
+- "/Users/bobobaby007/Documents/work/2015/swift_test/swift_test/swift_test/component/YYHRequest.swift"

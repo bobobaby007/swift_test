@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swift_test/ViewController.swift"
+            timestampString = "455653953.99302"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swift_test.ViewController.buttons.getter : ObjectiveC.NSArray"
+                  moduleName = "swift_test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobobaby007/Documents/work/2015/swift_test/swift_test/swift_test/ViewController.swift"
+                  timestampString = "455652349.6102"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swift_test.ViewController.buttons.setter : ObjectiveC.NSArray"
+                  moduleName = "swift_test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobobaby007/Documents/work/2015/swift_test/swift_test/swift_test/ViewController.swift"
+                  timestampString = "455652349.611487"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swift_test.ViewController.buttons.materializeForSet : ObjectiveC.NSArray"
+                  moduleName = "swift_test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobobaby007/Documents/work/2015/swift_test/swift_test/swift_test/ViewController.swift"
+                  timestampString = "455652349.611681"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swift_test.ViewController.init (swift_test.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; swift_test.ViewController"
+                  moduleName = "swift_test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobobaby007/Documents/work/2015/swift_test/swift_test/swift_test/ViewController.swift"
+                  timestampString = "455652349.611831"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swift_test.ViewController.init (swift_test.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; swift_test.ViewController"
+                  moduleName = "swift_test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobobaby007/Documents/work/2015/swift_test/swift_test/swift_test/ViewController.swift"
+                  timestampString = "455652349.612158"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

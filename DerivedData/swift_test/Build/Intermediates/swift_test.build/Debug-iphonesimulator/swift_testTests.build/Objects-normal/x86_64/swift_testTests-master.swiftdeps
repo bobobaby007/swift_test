@@ -1,0 +1,4 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "13ca910d1d2245a3705bdaa3f04a0a9b"
+inputs: 
+- "/Users/bobobaby007/Documents/work/2015/swift_test/swift_test/swift_testTests/swift_testTests.swift"
